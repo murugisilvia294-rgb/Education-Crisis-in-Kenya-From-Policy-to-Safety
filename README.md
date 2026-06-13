@@ -51,20 +51,30 @@ Deliverables
   - [Executive Summary (PDF)](Project_2_School_Unrest/executive_summary.pdf)
 - [Full Project Folder](Project_2_School_Unrest/)
   - Data (CSV)
-  - Tier 1: <<img width="335" height="207" alt="Composite Risk Score (1)" src="https://github.com/user-attachments/assets/1225c7f9-b710-4dde-9f1e-f5942865bf7c" />,
-
-
-
-
-  - Tier 2: Power BI dashboard<<<img width="336" height="290" alt="Main Visual Map" src="https://github.com/user-attachments/assets/d54a7377-4142-44bb-9d04-4c9b937dfb29" />,
-img width="1246" height="676" alt="County Detail" src="https://github.com/user-attachments/assets/f7e63370-9310-4819-a506-fede38cb0b3f" /><img width="1342" height="706" alt="Root Cause Dashboard" src="https://github.com/user-attachments/assets/976a9f8a-b890-4d14-a3e1-e1314c3c30b7" />,<img width="1057" height="607" alt="Schools Unrest Overview" src="https://github.com/user-attachments/assets/050b03f3-ced1-4e3f-b299-cdb96ce178ca" />
-,
+  - Tier 1:<img width="335" height="207" alt="Composite Risk Score (1)" src="https://github.com/user-attachments/assets/a2962bdc-df5d-488a-a8e6-fb73fc1d26a3" />,<img width="378" height="225" alt="_Schools Affected    Fatalities by County (1)" src="https://github.com/user-attachments/assets/e925a091-d57b-4b29-baad-12af4b6bc86a" />,<img width="491" height="219" alt="Schools Affected by County (Fire Safety Compliance (1)" src="https://github.com/user-attachments/assets/8a0d6589-0ecd-4e44-a586-b6133069cff6" />,<img width="1189" height="690" alt="School Affected by County (coloured by Fire Safety Compliance)" src="https://github.com/user-attachments/assets/158d46ab-9300-4b50-81a3-294d4069dde3" />
 
 
 
 
 
-  - Tier 3: Python analysis <img width="969" height="870" alt="Correlation Matrix_School Unrest Drivers" src="https://github.com/user-attachments/assets/3a05b21c-ed52-4cf7-b003-4b8b7baab4e6" />,<img width="938" height="590" alt="County Clusters by Overcrowding   Risk Score" src="https://github.com/user-attachments/assets/2f3fa13c-30f6-42d1-8df4-8531a57c5e2c" />,<img width="790" height="590" alt="Composite Risk Score Distribution by Infrastructure Grade" src="https://github.com/user-attachments/assets/440e141f-f7d2-4acd-9b81-a4821513edb7" />
+
+
+
+  - Tier 2: Power BI dashboard<<img width="336" height="290" alt="Main Visual Map" src="https://github.com/user-attachments/assets/89a217d3-5bb4-4b81-9f23-b94a0e674a3a" />,<img width="1057" height="607" alt="Schools Unrest Overview" src="https://github.com/user-attachments/assets/c537dee7-45cb-4c03-ad56-cca626b3cc9a" />,<img width="1342" height="706" alt="Root Cause Dashboard" src="https://github.com/user-attachments/assets/ed8c7a9f-4bf4-4b48-9f00-7ced61c4f0fe" />,<img width="1246" height="676" alt="County Detail" src="https://github.com/user-attachments/assets/13d35407-4079-4bb6-a420-62eae6bbaf43" />
+
+
+
+
+
+
+
+
+
+  - Tier 3: Python analysis <<img width="969" height="870" alt="Correlation Matrix_School Unrest Drivers" src="https://github.com/user-attachments/assets/6d18b540-bb60-44cd-99fb-f161a0604e49" />,<img width="1189" height="690" alt="School Affected by County (coloured by Fire Safety Compliance)" src="https://github.com/user-attachments/assets/2cb44f6c-4f28-4f20-90a2-ba929009eea5" />,<img width="938" height="590" alt="County Clusters by Overcrowding   Risk Score" src="https://github.com/user-attachments/assets/665cba59-5acf-4083-aee1-9bf1699d4982" />,<img width="790" height="590" alt="Linear Regression_Actual vs Predicted" src="https://github.com/user-attachments/assets/2203c6ce-a4db-458b-acba-e85bd39b4769" />,<img width="790" height="590" alt="Composite Risk Score Distribution by Infrastructure Grade" src="https://github.com/user-attachments/assets/a1c7bfb6-abe3-48a5-9b8e-fb55e241f883" />
+
+
+
+
 
 
 
