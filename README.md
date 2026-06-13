@@ -17,9 +17,9 @@ Together, they demonstrate my ability to:
 - 14 counties are classified as “Critical Need” – they require 70% of new investment.
 
 Deliverables
- [Executive Summary (PDF)](Project_1_CBC_Transition/executive_summary.pdf)
+ [Executive Summary (PDF)]
 - [Full Project Folder](Project_1_CBC_Transition/)
-  - Data (CSV)
+  - Data
   - Tier 1: Google Sheets analysis (screenshots, pivot tables)
   - Tier 2: Power BI dashboard (.pbix + screenshots)
   - Tier 3: Python notebook (correlation, clustering, regression, visualizations)
@@ -37,9 +37,20 @@ Deliverables
   - [Executive Summary (PDF)](Project_2_School_Unrest/executive_summary.pdf)
 - [Full Project Folder](Project_2_School_Unrest/)
   - Data (CSV)
-  - Tier 1: Google Sheets analysis
-  - Tier 2: Power BI dashboard
-  - Tier 3: Python analysis (regression, clustering, t‑tests, visualizations)
+  - Tier 1: <img width="440" height="234" alt="ASAL COMPARISON" src="https://github.com/user-attachments/assets/d2813c0b-b379-4fec-9b3a-3c5ca5e111bb" /><img width="392" height="244" alt="Digital_Access" src="https://github.com/user-attachments/assets/e483faff-4a47-49ec-8f50-f8e2352ac37b" /> <img width="375" height="197" alt="TEACHER SHORTAGE" src="https://github.com/user-attachments/assets/ac2aee10-40d9-4ed4-9f4b-3c0cbfdec93d" />
+
+
+
+  - Tier 2: Power BI dashboard<img width="712" height="434" alt="Kenya Map" src="https://github.com/user-attachments/assets/de18e5fc-3f3c-45b8-b38e-361a3a41eb5f" /> <img width="1068" height="612" alt="Slicer Dashboard" src="https://github.com/user-attachments/assets/9728ce65-fb6f-4e10-95bc-c12f7e324d4c" /> <img width="475" height="175" alt="Slicers Filter" src="https://github.com/user-attachments/assets/5d36ee14-4da7-4724-9a16-d55df6f15440" /><img width="1074" height="580" alt="Teacher Shortage and Digital Access" src="https://github.com/user-attachments/assets/6918dfc9-0189-45a8-ad15-0eee2f275514" />
+
+
+
+
+  - Tier 3: Python analysis (<img width="790" height="590" alt="Actual vs Predicted FLANA Scores" src="https://github.com/user-attachments/assets/5a7d3131-ff6a-4895-9cc3-b85bb2e73f7f" /> <img width="800" height="600" alt="ASAL_boxplot" src="https://github.com/user-attachments/assets/27880b8f-8647-47a2-b8db-e2540578d5c2" /> <img width="670" height="590" alt="Correlation Matrix" src="https://github.com/user-attachments/assets/ec094914-7309-4372-ab79-576d9a4fc2a9" /> <img width="936" height="590" alt="County Clusters by Teacher Shortage and Learning Outcome" src="https://github.com/user-attachments/assets/25a3dc4d-1769-4c0c-90d8-57bab85ecc7d" />
+
+
+
+
 
     Why These Projects Matter
     Kenya’s education system is at a crossroads. The CBC promises to modernise learning, but underfunding, teacher shortages, and digital divides are leaving many counties behind. Simultaneously, the 2026 unrest crisis reveals deep infrastructural and safety failures in boarding schools. Both issues demand data‑driven, county‑specific solutions.
