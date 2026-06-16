@@ -49,7 +49,7 @@ Policymakers require a data-driven understanding of where CBC implementation cha
 - Strengthen learner retention programmes.
 - Allocate resources using county-specific risk profiles.
 
-  ## Tools:
+  ## Tools
   - Google Sheets 
   -  Power BI
   -   Python
@@ -84,12 +84,13 @@ Policymakers require a data-driven understanding of where CBC implementation cha
   
   ## Skills Demonstrated
   
-- Data wrangling and cleaning of real-world education datasets
+- Data collection and cleaning from public datasets
+- Data wrangling and transformation
 - Feature engineering and composite risk scoring
 - Statistical analysis (correlation, regression)
 - Geospatial and county-level analysis
-- Interactive dashboard development (Power BI)
-- Data storytelling for policy decision-making
+- Dashboard development using Power BI
+- Translating data into policy recommendations
   
 ## Tools:
 
@@ -101,21 +102,21 @@ Policymakers require a data-driven understanding of where CBC implementation cha
   ## Repository Structure
   
  - Project_1_CBC_Transition/
-  - Data
-  - Notebook
-  - Dashboard
-  - Report
+  - Data (CSV files)
+  - Notebook (Python analysis)
+  - Dashboard (Power BI file)
+  - Report (PDF summary)
 - Project_2_School_Unrest/
-  - Data
-  - Notebook
-  - Dashboard
-  - Report
+  - Data (CSV files)
+  - Notebook (Python analysis)
+  - Dashboard (Power BI file)
+  - Report (PDF summary)
 
 ## Impact
 These analyses provide actionable insights for policymakers to:
-- Target underperforming counties
-- Improve resource allocation
-- Reduce education inequality
+- Identify high-risk counties for targeted intervention
+- Improve allocation of education and safety resources
+- Highlight structural inequalities in Kenya’s education system
   
 ## Contact
 
