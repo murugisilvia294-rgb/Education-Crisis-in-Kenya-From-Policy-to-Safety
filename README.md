@@ -85,6 +85,7 @@ Project Objectives
 - `Project_2_School_Unrest/`
 
 Why These Projects Matter:
+
     Kenya’s education system is at a crossroads. The CBC promises to modernise learning, but underfunding, teacher shortages, and digital divides are leaving many counties behind. Simultaneously, the 2026 unrest crisis reveals deep infrastructural and safety failures in boarding schools. Both issues demand data‑driven, county‑specific solutions.
 
  Contact
