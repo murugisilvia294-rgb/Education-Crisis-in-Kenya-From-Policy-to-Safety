@@ -102,11 +102,13 @@ Policymakers require a data-driven understanding of where CBC implementation cha
   ## Repository Structure
   
  - Project_1_CBC_Transition/
+   
   - Data (CSV files)
   - Notebook (Python analysis)
   - Dashboard (Power BI file)
   - Report (PDF summary)
 - Project_2_School_Unrest/
+  
   - Data (CSV files)
   - Notebook (Python analysis)
   - Dashboard (Power BI file)
@@ -116,7 +118,7 @@ Policymakers require a data-driven understanding of where CBC implementation cha
 These analyses provide actionable insights for policymakers to:
 - Identify high-risk counties for targeted intervention
 - Improve allocation of education and safety resources
-- Highlight structural inequalities in Kenya’s education system
+- Highlights structural inequalities in Kenya’s education system
   
 ## Contact
 
