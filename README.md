@@ -2,7 +2,7 @@
  
 This portfolio contains two end-to-end data analytics projects examining major challenges in Kenya's education sector using Google Sheets, Power BI, and Python.
 
-  ##Project 1: CBC Transition in Kenya
+  ## Project 1: CBC Transition in Kenya
   
   ## Overview
   
@@ -56,11 +56,11 @@ Policymakers require a data-driven understanding of where CBC implementation cha
 
  ## Project 2: School Unrest Risk Analysis
 
-  ##Objective
+  ## Objective
   
   Understand the drivers of school unrest and identify counties with the highest safety risk.
 
-  ##Data Sources
+  ## Data Sources
   
 - Public incident reports
 - News reports
@@ -91,7 +91,7 @@ Policymakers require a data-driven understanding of where CBC implementation cha
 - Interactive dashboard development (Power BI)
 - Data storytelling for policy decision-making
   
-**Tools:** 
+## Tools:
 -Google Sheets 
 -Power BI 
 -Python
