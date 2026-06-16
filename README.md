@@ -1,14 +1,11 @@
  Education-Crisis-in-Kenya-From-Policy-to-Safety
  
 This portfolio contains two end-to-end data analytics projects examining major challenges in Kenya's education sector using Google Sheets, Power BI, and Python.
-- Define a real‑world problem and identify measurable indicators.
-- Gather, clean, and structure data from reports, news, and official sources.
-- Perform descriptive, diagnostic, and predictive analysis using spreadsheets, interactive dashboards, and Python.
-- Translate findings into actionable policy recommendations.
 
   Project 1: CBC Transition in Kenya
   
   Project Overview
+  
 Kenya's transition from the 8-4-4 education system to the Competency-Based Curriculum (CBC) aims to improve learning outcomes and equip learners with practical competencies. However, disparities in teacher availability, digital access, and educational resources may undermine successful implementation.
 This project analyses county-level indicators to identify areas most at risk of struggling during the CBC rollout and provides evidence-based recommendations for targeted intervention.
 
