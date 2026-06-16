@@ -81,7 +81,7 @@ Project Objectives
 - Evidence-based recommendations
 
   Repository Structure
-  - `Project_1_CBC_Transition/`
+ - `Project_1_CBC_Transition/`
 - `Project_2_School_Unrest/`
 
 Why These Projects Matter:
