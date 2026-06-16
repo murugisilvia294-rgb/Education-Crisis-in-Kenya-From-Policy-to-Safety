@@ -93,9 +93,9 @@ Policymakers require a data-driven understanding of where CBC implementation cha
   
 ## Tools:
 
--Google Sheets 
--Power BI 
--Python
+ - Google Sheets 
+  -  Power BI
+  -   Python
 
 
   ## Repository Structure
