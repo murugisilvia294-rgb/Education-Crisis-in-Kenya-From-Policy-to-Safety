@@ -1,129 +1,90 @@
- Education-Crisis-in-Kenya-From-Policy-to-Safety
- 
-This portfolio contains two end-to-end data analytics projects examining major challenges in Kenya's education sector using Google Sheets, Power BI, and Python.
+# From Policy to School Safety – Integrated Education Risk Analysis (Kenya)
 
-  ## Project 1: CBC Transition in Kenya
-  
-  ## Overview
-  
-Kenya's transition from the 8-4-4 education system to the Competency-Based Curriculum (CBC) aims to improve learning outcomes and equip learners with practical competencies. However, disparities in teacher availability, digital access, and educational resources may undermine successful implementation.
-This project analyses county-level indicators to identify areas most at risk of struggling during the CBC rollout and provides evidence-based recommendations for targeted intervention.
+---
 
-## Problem Statement
+## Executive Summary
+This project combines two related analyses within Kenya’s education system:
 
-Policymakers require a data-driven understanding of where CBC implementation challenges are most severe and which factors contribute most strongly to readiness gaps.
+1. CBC Transition Readiness Analysis  
+2. School Unrest and Safety Risk Analysis  
 
-## Objectives
+The goal is to evaluate how education policy readiness influences real-world school safety outcomes, including infrastructure risk, overcrowding, and school unrest.
 
-- Identify counties at highest risk during CBC implementation.
-- Examine disparities between ASAL and non-ASAL counties.
-- Assess the relationship between teacher shortages and learning outcomes.
-- Estimate the scale of learner dropout.
-- Prioritise counties requiring immediate investment.
+Together, the project connects policy implementation, institutional readiness, and safety outcomes into a unified education risk framework.
 
-  ## Analytical Questions
-  
-- Which counties demonstrate the lowest CBC readiness?
-- How do learning outcomes differ across county groups?
-- What factors predict poorer educational outcomes?
-- Which counties should be prioritised for intervention?
+---
 
-  ## Data Sources
-  
-- FLANA reports
-- Ministry of Education reports
-- County education statistics
-- Public reports and publications
+## Project 1: CBC Transition Readiness Analysis
 
-  ## Key Insights
-  
-- ASAL counties averaged **56.2% FLANA scores**, compared with **65.8% in non-ASAL counties**.
-- Teacher shortages explained **74% of the variation in learning outcomes (R² = 0.74)**.
-- More than **150,000 learners dropped out** between Grade 3 and Grade 9.
-- Fourteen counties accounted for approximately **70% of identified investment needs**.
+### Objective
+To assess how prepared Kenyan schools are for the Competency-Based Curriculum (CBC) transition.
 
-  ## Recommendations
-  
-- Prioritise teacher deployment to the 14 highest-risk counties.
-- Expand digital infrastructure in underserved regions.
-- Strengthen learner retention programmes.
-- Allocate resources using county-specific risk profiles.
+### Focus Areas
+- Infrastructure readiness  
+- Teacher availability  
+- Learning resource distribution  
+- Regional disparities in readiness  
 
-  ## Tools
-  - Google Sheets 
-  -  Power BI
-  -   Python
+### Outcome
+Identifies gaps in CBC implementation and highlights under-resourced schools and counties.
 
- ## Project 2: School Unrest Risk Analysis
+---
 
-  ## Objective
-  
-  Understand the drivers of school unrest and identify counties with the highest safety risk.
+## Project 2: School Unrest and Safety Analysis
 
-  ## Data Sources
-  
-- Public incident reports
-- News reports
-- Education reports
-- County-level indicators
-  
-  ## Key Insights
-  
-- Nakuru and Narok accounted for **42% of affected schools**.
-- Counties with poor infrastructure and low fire safety compliance represented **76% of incidents**.
-- Dormitory overcrowding strongly correlated with unrest (**r = 0.85**).
-- Five counties scored above **80/100** on the composite risk scale.
+### Objective
+To analyze school unrest patterns and identify key drivers of safety risks.
 
-  ## Recommendations
-  
-- Prioritise safety audits in high-risk counties.
-- Reduce dormitory overcrowding.
-- Strengthen fire safety compliance monitoring.
-- Direct preventive resources using county risk rankings
+### Focus Areas
+- School strikes and unrest incidents  
+- Dormitory overcrowding  
+- Fire safety compliance  
+- Infrastructure conditions  
 
-  
-  ## Skills Demonstrated
-  
-- Data collection and cleaning from public datasets
-- Data wrangling and transformation
-- Feature engineering and composite risk scoring
-- Statistical analysis (correlation, regression)
-- Geospatial and county-level analysis
-- Dashboard development using Power BI
-- Translating data into policy recommendations
-  
-## Tools:
+### Outcome
+Identifies high-risk counties and schools using a composite risk scoring model.
 
- - Google Sheets 
-  -  Power BI
-  -   Python
+---
 
+## Methodology (Shared)
 
-  ## Repository Structure
-  
- - Project_1_CBC_Transition/
-   
-  - Data (CSV files)
-  - Notebook (Python analysis)
-  - Dashboard (Power BI file)
-  - Report (PDF summary)
-- Project_2_School_Unrest/
-  
-  - Data (CSV files)
-  - Notebook (Python analysis)
-  - Dashboard (Power BI file)
-  - Report (PDF summary)
+Both projects use a unified analytical pipeline:
 
-## Impact
-These analyses provide actionable insights for policymakers to:
-- Identify high-risk counties for targeted intervention
-- Improve allocation of education and safety resources
-- Highlights structural inequalities in Kenya’s education system
-  
+- Data cleaning and preprocessing (Google Sheets)
+- Exploratory analysis and descriptive statistics
+- Visualization using Power BI dashboards
+- Statistical modeling using Python (correlation, regression, clustering)
+- Composite Risk Score development for comparative analysis
+
+---
+
+## Key Combined Insights
+
+- Schools with low CBC readiness often exhibit higher safety risks  
+- Infrastructure is a shared driver across both readiness and unrest  
+- Overcrowding impacts both curriculum implementation and safety outcomes  
+- Certain counties consistently underperform across both datasets  
+- Policy gaps and safety risks are strongly interconnected  
+
+---
+
+## Recommendations
+
+- Invest in infrastructure improvements in low-readiness, high-risk schools  
+- Address overcrowding in boarding schools as a dual risk factor  
+- Integrate CBC readiness and safety monitoring into one national system  
+- Prioritize interventions in overlapping high-risk counties  
+- Strengthen education policy implementation tracking  
+
+---
+
+## Conclusion
+The analysis shows that CBC readiness and school safety are not separate challenges but interconnected issues within Kenya’s education system. Addressing both together provides a more effective framework for improving education outcomes and student safety.
+
+---
+
 ## Contact
-
-- Email: murugisilvia294@gmail.com  
-- LinkedIn: www.linkedin.com/in/silvia-murugi
-
-
+Email: murugisilvia294@gmail.com  
+LinkedIn: https://www.linkedin.com/in/silvia-murugi  
+  
     
