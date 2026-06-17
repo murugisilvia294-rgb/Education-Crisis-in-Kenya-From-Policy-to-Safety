@@ -1,0 +1,47 @@
+County,FLANA_Score_Pct,ASAL,Teacher_Shortage,Digital_Access,Transition_Risk,Risk_Score
+Samburu,51.21,Yes,Severe,Very Low,High,90
+Mandera,51.95,Yes,Severe,Very Low,High,90
+Garissa,52.5,Yes,Severe,Very Low,High,90
+Marsabit,53.8,Yes,Severe,Very Low,High,90
+Wajir,57,Yes,Severe,Very Low,High,90
+Tana River,57.04,Yes,Severe,Very Low,High,90
+Turkana,58.42,Yes,Severe,Very Low,High,90
+West Pokot,59.29,Yes,Severe,Very Low,High,90
+Lamu,59.82,Yes,Severe,Very Low,High,90
+Isiolo,60.77,Yes,Severe,Very Low,High,90
+Migori,61.52,No,Severe,Low,High,55
+Homa Bay,61.73,No,Severe,Low,High,55
+Kwale,62.33,No,Severe,Low,High,55
+Siaya,63.44,No,Severe,Low,High,55
+Kilifi,64.42,No,Severe,Low,High,55
+Bungoma,64.47,No,Severe,Low,High,55
+Kakamega,65.46,No,Severe,Low,High,55
+Vihiga,65.74,No,Moderate,Moderate,Moderate,25
+Trans Nzoia,65.72,No,Moderate,Moderate,Moderate,25
+Narok,65.71,No,Moderate,Moderate,Moderate,25
+Kitui,65.38,No,Moderate,Moderate,Moderate,25
+Kisumu,65.21,No,Moderate,Moderate,Moderate,25
+Mombasa,64.91,No,Moderate,Moderate,Moderate,25
+Busia,64.28,No,Moderate,Moderate,Moderate,25
+Kisii,63.58,No,Moderate,Moderate,Moderate,25
+Nyamira,61.44,No,Moderate,Moderate,Moderate,25
+Nyeri,72.56,No,Low,High,Low,0
+Kirinyaga,70.13,No,Low,High,Low,0
+Laikipia,69.92,No,Low,High,Low,0
+Embu,69.16,No,Low,High,Low,0
+Uasin Gishu,68.89,No,Low,High,Low,0
+Tharaka Nithi,68.83,No,Low,High,Low,0
+Murang'a,68.79,No,Low,High,Low,0
+Kiambu,68.74,No,Low,High,Low,0
+Meru,68.18,No,Low,High,Low,0
+Nakuru,67.87,No,Low,High,Low,0
+Kericho,67.8,No,Low,High,Low,0
+Nandi,67.77,No,Low,High,Low,0
+Nyandarua,67.51,No,Low,High,Low,0
+Baringo,67.48,No,Low,High,Low,0
+Kajiado,67.1,No,Low,High,Low,0
+Bomet,67.07,No,Low,High,Low,0
+Elgeyo Marakwet,66.81,No,Low,High,Low,0
+Machakos,66.8,No,Low,High,Low,0
+Makueni,66.58,No,Low,High,Low,0
+Taita Taveta,66.33,No,Low,High,Low,0
