@@ -1,1 +1,67 @@
-
+School_Unrest_Kenya/
+│
+├── README.md
+│
+│   # School Unrest in Kenya – Data Analytics Project
+│
+│   ## Project Overview
+│   This project analyzes school unrest in Kenya, including strikes, arson attacks, dormitory fires, and student fatalities. The goal is to identify key drivers of unrest and determine high-risk counties using data-driven analysis to support education policy and school safety interventions.
+│
+│   ## Objectives
+│   - Identify counties most affected by school unrest
+│   - Analyze key drivers such as infrastructure, overcrowding, and fire safety
+│   - Build a Composite Risk Score (0–100) to rank counties
+│   - Provide actionable insights for intervention strategies
+│
+│   ## Key Questions
+│   - Which counties are most affected?
+│   - What factors drive unrest?
+│   - How can risk be measured and predicted?
+│
+│   ## Tools & Technologies
+│   - Google Sheets
+│   - Power BI
+│   - Python (Google Colab)
+│
+│   ## Methodology
+│   - Google Sheets: data cleaning, pivot tables, descriptive stats
+│   - Power BI: dashboards, maps, drill-through analysis
+│   - Python: correlation, regression, clustering, hypothesis testing
+│
+│   ## Key Findings
+│   - Nakuru and Narok are the most affected counties
+│   - Overcrowding strongly correlates with unrest
+│   - Infrastructure & fire safety are major drivers
+│   - Five high-risk counties identified using composite scoring
+│
+│   ## Recommendations
+│   - Fire safety audits in high-risk schools
+│   - Reduce dormitory overcrowding
+│   - Improve infrastructure in under-resourced schools
+│   - Targeted interventions in high-risk counties
+│
+│   ## How to Run
+│   1. Clone repo
+│   2. Install requirements
+│   3. Run notebook in tier3_python/
+│
+│   ## Limitations
+│   - County-level data only
+│   - Correlation ≠ causation
+│   - Some external factors not included
+│
+│   ## Future Work
+│   - School-level analysis
+│   - Predictive modeling
+│   - Real-time monitoring system
+│
+│   ## Contact
+│   - Email: murugisilvia294@gmail.com
+│   - LinkedIn: www.linkedin.com/in/silvia-murugi
+│
+├── data/
+├── tier1_sheets/
+├── tier2_powerbi/
+├── tier3_python/
+├── docs/
+└── visuals/
