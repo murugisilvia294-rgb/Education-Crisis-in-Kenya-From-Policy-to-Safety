@@ -163,8 +163,9 @@ Education-Risk-Intelligence/
 
 ## Dashboard Preview
 
-(<img width="1057" height="607" alt="Schools Unrest Overview" src="https://github.com/user-attachments/assets/5eff60f0-b20a-464b-baff-eef1c7fe8a17" />
-.)
+(<img width="1246" height="676" alt="County Detail" src="https://github.com/user-attachments/assets/6c5e687e-195c-4319-a79e-da6827defeb2" />
+
+)
 
 Recommended screenshots:
 
