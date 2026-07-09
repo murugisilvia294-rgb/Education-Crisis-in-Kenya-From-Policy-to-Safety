@@ -1,90 +1,183 @@
-# From Policy to School Safety – Integrated Education Risk Analysis (Kenya)
-
----
+# 📚 Education Risk Intelligence: From CBC Readiness to School Safety in Kenya
 
 ## Executive Summary
-This project combines two related analyses within Kenya’s education system:
 
-1. CBC Transition Readiness Analysis  
-2. School Unrest and Safety Risk Analysis  
+This Business Intelligence project integrates Competency-Based Curriculum (CBC) transition readiness and school safety analytics into a unified education risk framework for Kenya. By combining education policy, institutional readiness, infrastructure, and school safety data, the project transforms complex datasets into interactive dashboards and analytical insights that support evidence-based decision-making for policymakers, education stakeholders, and institutional leaders.
 
-The goal is to evaluate how education policy readiness influences real-world school safety outcomes, including infrastructure risk, overcrowding, and school unrest.
-
-Together, the project connects policy implementation, institutional readiness, and safety outcomes into a unified education risk framework.
+Using Power BI, Python, and Microsoft Excel, the analysis identifies regional disparities, infrastructure gaps, implementation challenges, and school safety risks to help prioritize interventions, improve resource allocation, and strengthen education outcomes.
 
 ---
 
-## Project 1: CBC Transition Readiness Analysis
+## Business Problem
 
-### Objective
-To assess how prepared Kenyan schools are for the Competency-Based Curriculum (CBC) transition.
+The successful implementation of Kenya's Competency-Based Curriculum depends on more than curriculum reform alone. Differences in institutional preparedness, infrastructure, resource availability, and school safety create unequal learning environments across regions.
 
-### Focus Areas
-- Infrastructure readiness  
-- Teacher availability  
-- Learning resource distribution  
-- Regional disparities in readiness  
+Without a centralized analytical view, education stakeholders face challenges in measuring institutional readiness, identifying counties with the greatest infrastructure and resource gaps, understanding the relationship between school safety and learning environments, prioritizing investments based on evidence rather than assumptions, and monitoring education performance through accessible visual reporting.
 
-### Outcome
-Identifies gaps in CBC implementation and highlights under-resourced schools and counties.
+This project addresses these challenges by transforming education data into actionable Business Intelligence insights.
 
 ---
 
-## Project 2: School Unrest and Safety Analysis
+## Business Questions
 
-### Objective
-To analyze school unrest patterns and identify key drivers of safety risks.
-
-### Focus Areas
-- School strikes and unrest incidents  
-- Dormitory overcrowding  
-- Fire safety compliance  
-- Infrastructure conditions  
-
-### Outcome
-Identifies high-risk counties and schools using a composite risk scoring model.
+- Which counties demonstrate the highest and lowest CBC implementation readiness?
+- Where are the largest infrastructure and resource gaps?
+- Which factors contribute most to school safety risks?
+- How do school safety indicators vary across regions?
+- Which areas should policymakers prioritize for intervention?
+- How can education leaders use data to improve planning and resource allocation?
 
 ---
 
-## Methodology (Shared)
+## Project Objectives
 
-Both projects use a unified analytical pipeline:
-
-- Data cleaning and preprocessing (Google Sheets)
-- Exploratory analysis and descriptive statistics
-- Visualization using Power BI dashboards
-- Statistical modeling using Python (correlation, regression, clustering)
-- Composite Risk Score development for comparative analysis
-
----
-
-## Key Combined Insights
-
-- Schools with low CBC readiness often exhibit higher safety risks  
-- Infrastructure is a shared driver across both readiness and unrest  
-- Overcrowding impacts both curriculum implementation and safety outcomes  
-- Certain counties consistently underperform across both datasets  
-- Policy gaps and safety risks are strongly interconnected  
+- Assess institutional readiness for CBC implementation.
+- Evaluate infrastructure and resource availability.
+- Identify regional disparities affecting education outcomes.
+- Analyze school safety risk indicators.
+- Develop interactive dashboards that support evidence-based planning.
+- Demonstrate how Business Intelligence improves decision-making within the education sector.
 
 ---
 
-## Recommendations
+## Analytical Workflow
 
-- Invest in infrastructure improvements in low-readiness, high-risk schools  
-- Address overcrowding in boarding schools as a dual risk factor  
-- Integrate CBC readiness and safety monitoring into one national system  
-- Prioritize interventions in overlapping high-risk counties  
-- Strengthen education policy implementation tracking  
+### Data Collection
+
+Collected education datasets relating to CBC implementation, institutional capacity, infrastructure, learning environments, and school safety indicators.
+
+### Data Preparation
+
+Prepared, cleaned, standardized, and validated datasets using Microsoft Excel and Python to ensure consistency and analytical accuracy.
+
+### Exploratory Data Analysis
+
+Performed exploratory and statistical analysis to identify trends, correlations, missing values, and regional patterns influencing education outcomes.
+
+### Business Intelligence Development
+
+Designed interactive dashboards in Power BI to transform complex education data into intuitive visual reports.
+
+### Insight Generation
+
+Analyzed patterns across readiness, infrastructure, safety, and regional performance to generate evidence-based recommendations.
 
 ---
 
-## Conclusion
-The analysis shows that CBC readiness and school safety are not separate challenges but interconnected issues within Kenya’s education system. Addressing both together provides a more effective framework for improving education outcomes and student safety.
+## Dashboard Highlights
+
+This Business Intelligence solution includes:
+
+- Executive Education Performance Dashboard
+- CBC Readiness Dashboard
+- County-Level Readiness Analysis
+- Infrastructure & Resource Assessment
+- School Safety Risk Dashboard
+- Geographic (Map-Based) Visualizations
+- Regional Performance Comparisons
+- Strategic Education Insights
 
 ---
 
-## Contact
-Email: murugisilvia294@gmail.com  
-LinkedIn: https://www.linkedin.com/in/silvia-murugi  
-  
+## Key Insights
+
+The analysis revealed several important findings:
+
+- Significant regional disparities exist in CBC transition readiness across Kenya.
+- Infrastructure limitations remain one of the strongest barriers to successful CBC implementation.
+- Counties with lower institutional preparedness often demonstrate higher education risk indicators.
+- School safety challenges vary considerably by region, highlighting the need for targeted interventions.
+- Interactive dashboards improve visibility into education performance and enable faster evidence-based decision-making.
+
+---
+
+## Strategic Recommendations
+
+- Prioritize infrastructure investment in counties with low readiness scores.
+- Strengthen institutional capacity through targeted training and resource allocation.
+- Integrate school safety monitoring into education planning frameworks.
+- Adopt Business Intelligence dashboards for continuous education performance monitoring.
+- Support policy decisions using real-time data rather than relying solely on periodic reporting.
+
+---
+
+## Business Value
+
+This project demonstrates how Business Intelligence can transform education policy and operational data into actionable insights that support strategic planning, resource allocation, performance monitoring, and risk management.
+
+Rather than relying on static reports, decision-makers can interact with dynamic dashboards to identify priorities, monitor progress, and allocate resources more effectively.
+
+---
+
+## Tools & Technologies
+
+- Power BI
+- Python
+- Microsoft Excel
+
+---
+
+## Skills Demonstrated
+
+- Business Intelligence
+- Data Analysis
+- Dashboard Development
+- Data Visualization
+- Data Storytelling
+- Education Analytics
+- Geographic Analysis
+- Exploratory Data Analysis
+- Data Cleaning
+- Business Reporting
+- Strategic Decision Support
+
+---
+
+## Repository Structure
+
+```
+Education-Risk-Intelligence/
+│
+├── data/
+│   ├── raw-data/
+│   └── processed-data/
+│
+├── dashboards/
+│   └── Power BI Files
+│
+├── python/
+│   └── Analysis Notebooks
+│
+├── reports/
+│   └── Executive Summary
+│
+├── images/
+│   └── Dashboard Screenshots
+│
+├── documentation/
+│
+└── README.md
+```
+
+---
+
+## Dashboard Preview
+
+(<img width="1057" height="607" alt="Schools Unrest Overview" src="https://github.com/user-attachments/assets/5eff60f0-b20a-464b-baff-eef1c7fe8a17" />
+.)
+
+Recommended screenshots:
+
+- Executive Dashboard
+- CBC Readiness Dashboard
+- County-Level Map
+- School Safety Dashboard
+
+---
+
+## About This Portfolio
+
+This project is part of my Business Intelligence portfolio, where I apply Power BI, Python, SQL, and Excel to transform complex datasets into actionable insights that help organizations make better decisions through data.
+
+If you'd like to connect or discuss this project, feel free to reach out through my LinkedIn profile.
     
