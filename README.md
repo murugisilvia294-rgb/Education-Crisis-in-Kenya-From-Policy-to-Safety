@@ -163,9 +163,9 @@ Education-Risk-Intelligence/
 
 ## Dashboard Preview
 
-(<img width="1246" height="676" alt="County Detail" src="https://github.com/user-attachments/assets/6c5e687e-195c-4319-a79e-da6827defeb2" />
+<img width="1246" height="676" alt="County Detail" src="https://github.com/user-attachments/assets/6c5e687e-195c-4319-a79e-da6827defeb2" />
 
-)
+
 
 Recommended screenshots:
 
